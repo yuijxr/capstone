@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <rect width="300" height="300" fill="#f8f9fa" stroke="#dee2e6" stroke-width="2"/>
+  <!-- Shirt outline -->
+  <path d="M100 80 L100 60 Q100 50 110 50 L190 50 Q200 50 200 60 L200 80 L220 100 L220 120 L200 110 L200 250 Q200 260 190 260 L110 260 Q100 260 100 250 L100 110 L80 120 L80 100 Z" fill="#6c757d" stroke="#495057" stroke-width="2"/>
+  <!-- Shirt details -->
+  <line x1="150" y1="50" x2="150" y2="100" stroke="#495057" stroke-width="1"/>
+  <circle cx="140" cy="80" r="2" fill="#495057"/>
+  <circle cx="160" cy="80" r="2" fill="#495057"/>
+  <circle cx="140" cy="100" r="2" fill="#495057"/>
+  <circle cx="160" cy="100" r="2" fill="#495057"/>
+  <!-- Pattern -->
+  <rect x="120" y="120" width="60" height="40" fill="#e9ecef" stroke="#ced4da" stroke-width="1"/>
+  <text x="150" y="145" text-anchor="middle" font-family="Arial" font-size="14" fill="#495057">PRINT</text>
+  <!-- Product label -->
+  <text x="150" y="280" text-anchor="middle" font-family="Arial" font-size="12" fill="#6c757d">Printed Shirt</text>
+</svg>
